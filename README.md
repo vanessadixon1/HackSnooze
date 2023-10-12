@@ -4,6 +4,7 @@ This application allows user to create an account and login(if you have already 
 
 ![Model](hacking.png)
 
+![Model](hacking2.png)
 ### Features
 * Add new live feed
 * Favorite any live feed
